@@ -28,3 +28,7 @@ if (age >= 20) {
 }else{
   console.log('私は20歳未満です');
 } 
+
+if (age >= 20 && age < 30){
+  console.log('私は20代です');
+}
