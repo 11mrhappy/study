@@ -1,9 +1,3 @@
-let name="にんじゃわんこ";
-console.log(name);
-
-let length=5;
-console.log(length);
-console.log(length*length*3);
-
-name = 'とりずきん';
-console.log(name);
+const language = 'フランス語';
+console.log(language);
+console.log(language+'を話せます');
