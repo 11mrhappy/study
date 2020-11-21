@@ -48,3 +48,17 @@ switch (rank){
     console.log("メダルはありません");
     break;
 }
+
+let number=0;
+
+let number += 1;
+console.log(number);
+
+ number += 1;
+console.log(number);
+ number += 1;
+console.log(number);
+ number += 1;
+console.log(number);
+ number += 1;
+console.log(number);
