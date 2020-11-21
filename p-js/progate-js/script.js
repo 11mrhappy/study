@@ -14,3 +14,9 @@ console.log("age < 20");
 if (age>20){
   console.log("私は20歳以上です");
 };
+
+if (password === "ninjawanko"){
+  console.log('ログインに成功しました');
+}else{
+  console.log('パスワードが間違っています');
+};
