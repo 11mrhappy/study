@@ -18,5 +18,25 @@
 ?>
 
 <?php
+  $x += 10;
+  echo $x;
+?>
+
+<?php
+  $y *= 5;
+  echo $y;
+?>
+
+<?php
+  $a++;
+  echo $a;
+?>
+
+<?php
+  $b--;
+  echo $b;
+?>
+
+<?php
   
 ?>
