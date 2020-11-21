@@ -1,10 +1,3 @@
-console.log(5+3);
-console.log(20-8);
-console.log('4+5');
+let name="にんじゃわんこ";
 
-console.log(8*4);
-console.log(24/4);
-console.log(7%2);
-
-console.log("ひつじ"+"仙人");
-console.log('20'+'15');
+console.log(name);
