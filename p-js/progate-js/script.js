@@ -20,3 +20,9 @@ if (password === "ninjawanko"){
 }else{
   console.log('パスワードが間違っています');
 };
+
+if (age >= 20) {
+  console.log("私は20歳以上です");
+}else{
+  console.log('私は20歳未満です');
+} 
