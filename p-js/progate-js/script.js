@@ -8,3 +8,9 @@ console.log(`今は${age}歳です`);
 if (level > 10){
   console.log(`${level}が10より大きいです`);
 };
+
+console.log("age >= 20");
+console.log("age < 20");
+if (age>20){
+  console.log("私は20歳以上です");
+};
