@@ -158,6 +158,14 @@
 ?>
 
 <?php
+  echo strlen($str);
+
+  echo count($array);
+
+  echo rand(10,15);
+?>
+
+<?php
   
 ?>
 
