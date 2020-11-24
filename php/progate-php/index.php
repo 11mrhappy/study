@@ -180,6 +180,11 @@
 ?>
 
 <?php
-  
+  function getCircleArea($radius){
+    return $radius * $radius * 3;
+  }
 ?>
 
+<?php
+  
+?>
