@@ -189,6 +189,8 @@
   echo $circleArea;
 ?>
 
+<form action="sent.php" method="post"></form>
+
 <?php
   
 ?>
