@@ -151,5 +151,13 @@
 ?>
 
 <?php
+      foreach($scores as $key => $value){
+        echo $key.'は'.$value.'点です。';
+      }
+
+?>
+
+<?php
   
 ?>
+
