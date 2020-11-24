@@ -189,8 +189,11 @@
   echo $circleArea;
 ?>
 
-<form action="sent.php" method="post"></form>
-
 <?php
   
 ?>
+
+<form action="sent.php" method="post"></form>
+
+<input type="text" name="name">
+<textarea name="body"></textarea>
