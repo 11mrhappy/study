@@ -9,3 +9,7 @@
 <?php
   echo $_POST['age'];
 ?>
+
+<?php
+  echo $_POST['category'];
+?>

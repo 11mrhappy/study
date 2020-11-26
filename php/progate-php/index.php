@@ -205,3 +205,17 @@
   <option value="20代">20代</option>
   <option value="30代">30代</option>
 </select>
+
+for ($i=6; $i<=100; $i++){
+  echo "<option value='{$i}'>{$i}</option>";
+}
+
+<select name="category">
+  <option value="未選択">選択してください</option>
+  <?php
+  foreach ($types as $type){
+  echo "<option value='{$type}'>{$type}</option>";
+}
+?>
+</select>
+
