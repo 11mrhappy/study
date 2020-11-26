@@ -199,3 +199,9 @@
 <textarea name="body"></textarea>
 
 <input type="submit" value="送信">
+
+<select name="age">
+  <option value="未選択">選択してください</option>
+  <option value="20代">20代</option>
+  <option value="30代">30代</option>
+</select>
