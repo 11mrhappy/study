@@ -197,3 +197,5 @@
 
 <input type="text" name="name">
 <textarea name="body"></textarea>
+
+<input type="submit" value="送信">
