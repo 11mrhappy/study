@@ -228,6 +228,15 @@ for ($i=6; $i<=100; $i++){
   $pasta = new Menu();
 ?>
 
+public $name;
+
+$curry->name = 'CURRY';
+$pasta->name = 'PASTA';
+
+echo $curry->name;
+
+echo $pasta->name;
+
 <?php
   
 ?>
