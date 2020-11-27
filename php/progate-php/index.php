@@ -219,3 +219,15 @@ for ($i=6; $i<=100; $i++){
 ?>
 </select>
 
+<?php
+  class Menu {
+
+  }
+
+  $curry = new Menu();
+  $pasta = new Menu();
+?>
+
+<?php
+  
+?>
